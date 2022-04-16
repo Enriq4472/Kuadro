@@ -12,3 +12,10 @@ h1
     text-align: center;
     color: #0A2D27;
 }
+
+.quadroprincipal
+{
+    border: 1px solid #0A2D27;
+    border-radius: 3px;
+    padding: 20px;
+}

@@ -1,4 +1,4 @@
-# Kuadro de Anotacoes
+# Kuadro de Anotações
 
 ## Sobre
 
